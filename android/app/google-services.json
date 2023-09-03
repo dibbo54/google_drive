@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076464840446",
+    "project_id": "djdrive",
+    "storage_bucket": "djdrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076464840446:android:ce4ace8b2ef7bfba0b3faf",
+        "android_client_info": {
+          "package_name": "com.example.googledrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076464840446-gkrc59ql2tkl46nq17jossphv5cjnbmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-yvPFWzMAfJTOczjVRN24UYEyvHwTyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076464840446-gkrc59ql2tkl46nq17jossphv5cjnbmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
